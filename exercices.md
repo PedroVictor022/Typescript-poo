@@ -1,7 +1,5 @@
 Crie uma função que aceite três números e retorne a média deles.
 
-Crie uma classe chamada "Aluno" com as propriedades "nome" e "nota". Adicione um método na classe que calcule a média das notas dos alunos.
-
 Crie um objeto "pessoa" com as propriedades "nome", "idade" e "profissão". Adicione um método que retorne a idade da pessoa em dias.
 
 Crie uma interface "Veículo" com as propriedades "marca", "modelo" e "ano". Crie uma classe "Carro" que implemente a interface "Veículo".
